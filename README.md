@@ -1,2 +1,2 @@
-# atmega32interfacing
-ATmega32 Microchip Microcontroller Interfacing Project
+# ATmega32 Interfacing Assignments
+ATmega32 Interfacing Assignments ITI & IMT Internship July, 2025
